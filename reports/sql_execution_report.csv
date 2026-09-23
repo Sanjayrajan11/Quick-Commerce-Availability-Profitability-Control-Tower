@@ -1,0 +1,49 @@
+file,question,result_rows
+availability_queries.sql,Store unmet demand,8
+availability_queries.sql,Category fill rate,4
+availability_queries.sql,Hourly shortage concentration,17
+availability_queries.sql,Customer experience,4
+availability_queries.sql,Accepted replacement demand,40
+availability_queries.sql,City opportunity ranking,4
+availability_queries.sql,Opening availability by date,120
+availability_queries.sql,Daily demand change,120
+delivery_queries.sql,Partner punctuality,2
+delivery_queries.sql,Store duration,8
+delivery_queries.sql,Hourly delay,17
+delivery_queries.sql,City cost,4
+delivery_queries.sql,Nearest rank P90,1
+delivery_queries.sql,Distance delay gradient,6
+delivery_queries.sql,High cost orders,20249
+delivery_queries.sql,Basket picking burden,11
+inventory_queries.sql,Latest inventory position,320
+inventory_queries.sql,Value by store,8
+inventory_queries.sql,Waste by category,4
+inventory_queries.sql,Replenishment failures,8
+inventory_queries.sql,Seven observation demand mean,38400
+inventory_queries.sql,Stock continuity audit,0
+inventory_queries.sql,Zero demand assortment,0
+inventory_queries.sql,Inventory turnover units,320
+profitability_queries.sql,Canonical financial totals,1
+profitability_queries.sql,Loss making SKUs,7
+profitability_queries.sql,Category economics,4
+profitability_queries.sql,Profit concentration,40
+profitability_queries.sql,Payment economics,4
+profitability_queries.sql,Low basket delivery burden,2
+profitability_queries.sql,Monthly contribution trend,4
+profitability_queries.sql,Customer observed value,30000
+promotion_queries.sql,Promotion economics,3
+promotion_queries.sql,Campaign loss makers,0
+promotion_queries.sql,Exposure basket association,3
+promotion_queries.sql,Promotion stock pressure,3
+promotion_queries.sql,Category discount dependence,4
+promotion_queries.sql,Weekly campaign contribution,54
+promotion_queries.sql,Campaign segment economics,10
+promotion_queries.sql,Observed comparison not causal,2
+store_queries.sql,Store performance,8
+store_queries.sql,Unprofitable stores,0
+store_queries.sql,Capacity pressure,239
+store_queries.sql,Store category drivers,32
+store_queries.sql,Top issue in each store,8
+store_queries.sql,Region economics,2
+store_queries.sql,Acquisition cohorts,10
+store_queries.sql,Returning order share,8

@@ -1,0 +1,11 @@
+product_id,sku,product,category_id,supplier_id,brand_tier,pack_size,price_inr,unit_cost_inr,shelf_days
+0,SC-0000,Vegetable box 1,0,0,0,1,35.0,24.5,5
+1,SC-0001,Breakfast pack 1,1,1,2,3,306.0,250.92,10
+2,SC-0002,Pantry pack 1,2,2,1,3,446.0,289.9,120
+3,SC-0003,Home care pack 1,3,3,1,2,405.0,230.85,365
+4,SC-0004,Vegetable box 2,0,0,1,1,47.0,32.9,5
+5,SC-0005,Breakfast pack 2,1,1,2,3,306.0,250.92,10
+6,SC-0006,Pantry pack 2,2,2,0,2,220.0,143.0,120
+7,SC-0007,Home care pack 2,3,3,2,3,765.0,436.05,365
+8,SC-0008,Vegetable box 3,0,0,0,3,105.0,73.5,5
+9,SC-0009,Breakfast pack 3,1,1,0,3,180.0,147.6,10

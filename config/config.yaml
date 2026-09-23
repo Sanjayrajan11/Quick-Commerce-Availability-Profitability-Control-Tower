@@ -1,0 +1,9 @@
+dataset_size: 300000
+seed: 42
+days: 120
+start_date: 2026-01-01
+stores: 8
+products: 40
+recovery_rate: 0.65
+service_z: 1.65
+review_days: 7

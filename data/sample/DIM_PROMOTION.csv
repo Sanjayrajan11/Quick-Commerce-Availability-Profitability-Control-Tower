@@ -1,0 +1,4 @@
+promotion_id,promotion,discount_rate
+0,No promotion,0.0
+1,Basket saver,0.08
+2,Deep discount,0.3

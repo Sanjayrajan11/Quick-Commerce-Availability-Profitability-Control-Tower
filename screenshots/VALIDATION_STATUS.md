@@ -1,0 +1,2 @@
+# Screenshot status
+No screenshots are included. Chrome automation was unavailable, and the in-app browser could not verify its admin-enforced policy when opening localhost. That restriction was not bypassed. Programmatic page tests passed, but layout, overflow, chart tooltips and actual browser downloads still require manual verification. Capture screenshots only after completing docs/MANUAL_UI_CHECKLIST.md.

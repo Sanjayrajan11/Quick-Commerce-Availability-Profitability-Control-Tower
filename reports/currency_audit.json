@@ -1,0 +1,5 @@
+{
+  "scope": "All Git-visible source, documentation, reports, notebooks and sample text files; binary generated datasets and Git internals are excluded",
+  "files_scanned": 107,
+  "unintended_currency_findings": []
+}

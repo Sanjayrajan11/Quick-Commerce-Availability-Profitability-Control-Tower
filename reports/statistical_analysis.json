@@ -1,0 +1,16 @@
+{
+  "question": "Does observed AOV differ with promotion exposure?",
+  "null": "Equal population mean AOV",
+  "alternative": "Different population mean AOV",
+  "test": "Two-sided Welch t-test",
+  "n_exposed": 102369,
+  "n_unexposed": 197631,
+  "mean_difference_inr": 195.489115608146,
+  "ci95_low_inr": 191.49472683882013,
+  "ci95_high_inr": 199.48350437747186,
+  "p_value": 0.0,
+  "median_exposed_inr": 788.28,
+  "std_exposed_inr": 533.8026529899709,
+  "p90_exposed_inr": 1601.5719999999997,
+  "interpretation": "Descriptive association only. Repeated customers and non-random basket formation limit independent-observation inference; interval uses large-sample approximation."
+}

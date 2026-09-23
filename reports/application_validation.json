@@ -1,0 +1,75 @@
+{
+  "cold_load_seconds": 9.731,
+  "pages": [
+    {
+      "page": "CONTROL TOWER",
+      "seconds": 2.038,
+      "errors": []
+    },
+    {
+      "page": "AVAILABILITY",
+      "seconds": 2.288,
+      "errors": []
+    },
+    {
+      "page": "INVENTORY",
+      "seconds": 1.683,
+      "errors": []
+    },
+    {
+      "page": "PROFITABILITY",
+      "seconds": 2.202,
+      "errors": []
+    },
+    {
+      "page": "STORE OPERATIONS",
+      "seconds": 2.113,
+      "errors": []
+    },
+    {
+      "page": "DEMAND",
+      "seconds": 2.144,
+      "errors": []
+    },
+    {
+      "page": "DELIVERY",
+      "seconds": 1.725,
+      "errors": []
+    },
+    {
+      "page": "PROMOTIONS",
+      "seconds": 2.066,
+      "errors": []
+    },
+    {
+      "page": "OPPORTUNITIES",
+      "seconds": 1.678,
+      "errors": []
+    },
+    {
+      "page": "SCENARIO LAB",
+      "seconds": 1.728,
+      "errors": []
+    },
+    {
+      "page": "ACTION CENTER",
+      "seconds": 1.687,
+      "errors": []
+    },
+    {
+      "page": "DATA EXPLORER",
+      "seconds": 2.233,
+      "errors": []
+    },
+    {
+      "page": "FORECASTING",
+      "seconds": 1.719,
+      "errors": []
+    },
+    {
+      "page": "METHODOLOGY",
+      "seconds": 1.678,
+      "errors": []
+    }
+  ]
+}
